@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728893416 source:c:\users\Администратор\source\лабы\laboratona2part1\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
